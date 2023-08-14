@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+from sface import SFace
 
 def main():
     cap = cv2.VideoCapture(0)
